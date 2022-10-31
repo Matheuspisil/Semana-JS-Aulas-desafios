@@ -7,8 +7,8 @@
   Dica: pesquise por exponentiation operator (**).
 */
 
-const numbers = [5, 7, 3]
+const numbers = [5, 7, 3];
 
-const quadrado = numbers.map(item => item ** 2 )
+const quadrado = numbers.map((item) => item ** 2);
 
 console.log(quadrado);
